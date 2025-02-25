@@ -10,6 +10,8 @@ This is a **Proof of Concept (POC)** project demonstrating the use of **React He
    cd open-course-assignment/react-helmet-demo
 
 ## 📸 Screenshot
-![React Helmet Demo](https://github.com/harshitdohare/open-course-assignment/blob/react-helmet-poc/screenshot.png?raw=true)
+![React Helmet Demo](https://github.com/harshitdohare/open-course-assignment/blob/react-helmet-poc/react-helmet-demo/screenshot.png)
+
+
 
 
